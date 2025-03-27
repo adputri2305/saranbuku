@@ -1,7 +1,7 @@
 # 📚 SaranBuku – Sistem Rekomendasi Buku Anak Berbasis Review
 
 **SaranBuku** adalah aplikasi cerdas yang merekomendasikan buku anak berdasarkan masukan dalam bentuk bahasa alami, seperti:
-- "Saya cari buku lucu untuk anak usia 6 tahun"
+- "Suggest me books about planets"
 - "Buku tentang hewan untuk anak TK"
 
 ### 🔗 Download Data
